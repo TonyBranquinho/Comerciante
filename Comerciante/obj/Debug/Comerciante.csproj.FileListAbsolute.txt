@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Comerciante\Comerciante\bin\Debug\Comerciante.exe.config
+C:\temp\ws-vs2019\Comerciante\Comerciante\bin\Debug\Comerciante.exe
+C:\temp\ws-vs2019\Comerciante\Comerciante\bin\Debug\Comerciante.pdb
+C:\temp\ws-vs2019\Comerciante\Comerciante\obj\Debug\Comerciante.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Comerciante\Comerciante\obj\Debug\Comerciante.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Comerciante\Comerciante\obj\Debug\Comerciante.exe
+C:\temp\ws-vs2019\Comerciante\Comerciante\obj\Debug\Comerciante.pdb
